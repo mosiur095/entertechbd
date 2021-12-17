@@ -1,0 +1,15 @@
+Admin Panel:
+Link:http://localhost/entertech/views/admin/login.php
+useremail:admin@gmail.com
+Password:1234
+
+
+
+User Panel:
+link:http://localhost/entertech/index.php
+user:mosiur@gmail.com
+password:1234
+
+Database:
+Directory:
+lib/entertech.sql
